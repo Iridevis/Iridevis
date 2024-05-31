@@ -9,8 +9,8 @@
 | SCSS | Node.js  |
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iridevis&theme=iceberg&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<!--
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Iridevis&theme=iceberg&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 **Iridevis/Iridevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
